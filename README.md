@@ -3,37 +3,37 @@
 
 <img src="https://github.com/SrKocmoc/BruteForcing/blob/main/0118.gif?raw=true" alt=2000>
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> [ ! ] AVISO [ ! ]
+
+> NÃO ME RESPONSÁBILIZO POR NENHUM ATO ILICITO UTILIZANDO ESSAS FERRAMENTAS, USE COM SUMA RESPONSÁBILIDADE !
+ 
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Brute Forcing on Instagram
+- [x] Brute Forcing on Linkedin
+- [x] Brute Forcing on Facebook
+- [ ] Brute Forcing SMTP
+- [ ] Brute Forcing SSH
+- [ ] Brute Forcing FTP
+- [ ] Brute Forcing RDP
+- [ ] Brute Forcing TFTP
+- [ ] Brute Forcing on sites online
+- [ ] 
 
-## 💻 Pré-requisitos
+<h2> 💻 Pré-requisitos </h2>
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- Você instalou a versão mais recente de `<Python / dependência e Requiriments>`
+- Você tem uma máquina `<Linux>`. 
+- Você leu `<guia>`.
 
 ## 🚀 Instalando <nome_do_projeto>
 
 Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-
-```
-<comando_de_instalação>
-```
-
-Windows:
 
 ```
 <comando_de_instalação>
@@ -49,7 +49,7 @@ Para usar <nome_do_projeto>, siga estas etapas:
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para BruteForcing
 
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
