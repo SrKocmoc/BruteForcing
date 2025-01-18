@@ -15,13 +15,13 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Brute Forcing on Instagram
 - [x] Brute Forcing on Linkedin
 - [x] Brute Forcing on Facebook
-- [ ] Brute Forcing SMTP
-- [ ] Brute Forcing SSH
-- [ ] Brute Forcing FTP
-- [ ] Brute Forcing RDP
-- [ ] Brute Forcing TFTP
+- [x] Brute Forcing SMTP
+- [x] Brute Forcing SSH
+- [x] Brute Forcing FTP
+- [x] Brute Forcing RDP
+- [x] Brute Forcing TFTP
+- [ ] Brute Forcing on Tik Tok.
 - [ ] Brute Forcing on sites online
-- [ ] 
 
 <h2> 💻 Pré-requisitos </h2>
 
